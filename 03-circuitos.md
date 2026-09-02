@@ -9,7 +9,7 @@ nav_order: 3
 Arduino Básico Salidas Digitales:
 
 - **0_Ejemplo Blink** 
-(assets/img/captura-0.png)
+(assets/img/captura-0.png) 
 - **1_Salida Digital HIGH** 
 (assets/img/captura-1.jpeg)
 - **2_Salida Digital LOW**
