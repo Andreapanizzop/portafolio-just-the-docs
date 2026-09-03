@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Circuitos tarea
+title: 1_Arduino Básico Salidas Digitales 
 nav_order: 3
 ---
 
