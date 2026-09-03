@@ -15,13 +15,15 @@ Foto:
 Codigo:
 ![Blink1](assets/img/01-publicar/Codigo-0.png) 
 
+Video:
+![Blink1](assets/img/01-publicar/video-0.MOV) 
+
 - **1_Salida Digital HIGH** 
 Foto:
 ![Blink1](assets/img/01-publicar/captura-1.jpeg)
 
 Codigo :
 ![Blink1](assets/img/01-publicar/Codigo-1.png) 
-
 
 
 - **2_Salida Digital LOW**
