@@ -16,3 +16,4 @@ Fotos de mi proceso al hacer mi cubo
 ![Blink1](assets/img/01-publicar/cubo-09.JPG) 
 ![Blink1](assets/img/01-publicar/cubo-10.HEIC) 
 ![Blink1](assets/img/01-publicar/cubo-11.JPG) 
+![Blink1](assets/img/01-publicar/cubo-12.JPG) 
