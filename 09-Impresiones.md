@@ -4,7 +4,7 @@ title: Impresiones en 3D
 nav_order: 9
 ---
 
-En este proyecto, nos toco realizar una serie de impresiones para probar dos tipos de impresoras 3D con el mismo dieño y comparar el resultado. 
+En este proyecto, nos toco realizar una serie de impresiones para probar dos tipos de impresoras 3D con el mismo diseño y comparar el resultado. 
 
 
 En cuanto al diseño en solidworks, se me ha hecho bastante complejo usar la aplicación en este caso seguí un tutorial para poder hacerlo y aun asi tarde bastante y habia cosas que no comprendía porque habia que ponerlas.
@@ -16,6 +16,8 @@ En cuanto a las impresoras en mi caso, por mi diseño tanto el del mono como el 
 
 
 Impresora Bambu X1:
+
+
 ![Blink1](assets/img/01-publicar/impresora-01.jpeg)
 
 Tiburon de Bambu: 
@@ -25,6 +27,8 @@ Tiburon de Bambu:
 
 
 Impresora Creality:
+
+
 ![Blink1](assets/img/01-publicar/impresora-02.jpeg)
 
 
